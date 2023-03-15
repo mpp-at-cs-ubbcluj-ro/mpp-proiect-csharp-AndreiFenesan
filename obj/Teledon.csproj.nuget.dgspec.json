@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/andrei/Desktop/facultate sem4/MPP/lab3CSharp/Teledon/Teledon/Teledon.csproj": {}
+  },
+  "projects": {
+    "/home/andrei/Desktop/facultate sem4/MPP/lab3CSharp/Teledon/Teledon/Teledon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andrei/Desktop/facultate sem4/MPP/lab3CSharp/Teledon/Teledon/Teledon.csproj",
+        "projectName": "Teledon",
+        "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/lab3CSharp/Teledon/Teledon/Teledon.csproj",
+        "packagesPath": "/home/andrei/.nuget/packages/",
+        "outputPath": "/home/andrei/Desktop/facultate sem4/MPP/lab3CSharp/Teledon/Teledon/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andrei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

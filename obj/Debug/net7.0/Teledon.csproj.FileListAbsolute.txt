@@ -1,0 +1,15 @@
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/bin/Debug/net7.0/Teledon
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/bin/Debug/net7.0/Teledon.deps.json
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/bin/Debug/net7.0/Teledon.runtimeconfig.json
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/bin/Debug/net7.0/Teledon.dll
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/bin/Debug/net7.0/Teledon.pdb
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/Teledon.csproj.AssemblyReference.cache
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/Teledon.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/Teledon.AssemblyInfoInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/Teledon.AssemblyInfo.cs
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/Teledon.csproj.CoreCompileInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/Teledon.dll
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/refint/Teledon.dll
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/Teledon.pdb
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/Teledon.genruntimeconfig.cache
+/home/andrei/Desktop/facultate sem4/MPP/lab3/lab3CSharp/Teledon/Teledon/obj/Debug/net7.0/ref/Teledon.dll
