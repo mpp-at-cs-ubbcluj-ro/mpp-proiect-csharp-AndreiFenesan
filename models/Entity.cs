@@ -8,4 +8,9 @@ public class Entity<TId>
     {
         this.Id = id;
     }
+
+    public override string ToString()
+    {
+        return Id.ToString();
+    }
 }

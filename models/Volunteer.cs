@@ -12,4 +12,9 @@ public class Volunteer : Entity<long>
         Username = username;
         Password = password;
     }
+
+    public override string ToString()
+    {
+        return base.ToString() + "; " + Name + "; " + Username + "; " + Password;
+    }
 }
