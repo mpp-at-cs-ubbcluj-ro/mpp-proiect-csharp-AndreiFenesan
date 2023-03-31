@@ -2,6 +2,7 @@ using System.Data;
 using log4net;
 using Teledon.models;
 using Teledon.repositories.interfaces;
+using Teledon.validators;
 
 namespace Teledon.repositories.db_implementations;
 
@@ -9,15 +10,22 @@ public class DonationDbRepository : IDonationRepository
 {
     private DbUtils _dbUtils;
     private static readonly ILog Logger = LogManager.GetLogger(typeof(DonationDbRepository));
+    private IValidator<Donation> donationValidator;
 
-    public DonationDbRepository(DbUtils dbUtils)
+
+    public DonationDbRepository(DbUtils dbUtils, IValidator<Donation> donationValidator)
     {
+        this.donationValidator = donationValidator;
         _dbUtils = dbUtils;
     }
 
     public Donation Save(Donation donation)
     {
         Logger.InfoFormat("Saving donation {0}", donation);
+        Logger.InfoFormat("Validating donation {0}", donation);
+
+        this.donationValidator.Validate(donation);
+        Logger.InfoFormat("valid donation {0}", donation);
         IDbConnection connection = _dbUtils.GetConnection();
         string query =
             "INSERT INTO tables.donation (amount, charitycaseid, donorid) values (@amount,@charityCaseId,@donorId) returning *";
@@ -71,7 +79,7 @@ public class DonationDbRepository : IDonationRepository
         throw new NotImplementedException();
     }
 
-    public Donation findOneById(long id)
+    public Donation? findOneById(long id)
     {
         throw new NotImplementedException();
     }

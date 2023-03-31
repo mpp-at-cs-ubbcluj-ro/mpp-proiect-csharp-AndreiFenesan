@@ -1,7 +1,9 @@
 using System.Data;
+using System.Reflection.Metadata;
 using log4net;
 using Teledon.models;
 using Teledon.repositories.interfaces;
+using Teledon.validators;
 
 namespace Teledon.repositories.db_implementations;
 
@@ -59,8 +61,27 @@ public class CharityDbRepository : ICharityRepository
         return new CharityCase(id, caseName, description);
     }
 
-    public CharityCase findOneById(long id)
+    public CharityCase? findOneById(long id)
     {
-        throw new NotImplementedException();
+        Logger.InfoFormat("Finding charity case with id: {0}", id);
+        IDbConnection connection = _dbUtils.GetConnection();
+        string query = "SELECT * FROM tables.charitycase where id = @id";
+        using (IDbCommand command = connection.CreateCommand())
+        {
+            command.CommandText = query;
+            IDataParameter idParameter = command.CreateParameter();
+            idParameter.ParameterName = "@id";
+            idParameter.Value = id;
+            command.Parameters.Add(idParameter);
+            using (IDataReader reader = command.ExecuteReader())
+            {
+                if (reader.Read())
+                {
+                    return ExtractCharityCaseFromReader(reader);
+                }
+            }
+        }
+
+        return null;
     }
 }

@@ -14,4 +14,9 @@ public class CharityCaseDto
         this.CaseName = caseName;
         this.Description = description;
     }
+
+    public override string ToString()
+    {
+        return Id + " " + CaseName + " " + Description + " " + TotalAmountCollected;
+    }
 }

@@ -3,6 +3,7 @@ using log4net;
 using Npgsql;
 using Teledon.models;
 using Teledon.repositories.interfaces;
+using Teledon.validators;
 
 namespace Teledon.repositories.db_implementations;
 
@@ -10,15 +11,22 @@ public class DonorDbRepository : IDonorRepository
 {
     private DbUtils _dbUtils;
     private static readonly ILog Logger = LogManager.GetLogger(typeof(DonorDbRepository));
+    private IValidator<Donor> donorValidator;
 
-    public DonorDbRepository(DbUtils dbUtils)
+    public DonorDbRepository(DbUtils dbUtils, IValidator<Donor> donorValidator)
     {
+        this.donorValidator = donorValidator;
         _dbUtils = dbUtils;
     }
 
     public Donor Save(Donor entity)
     {
         Logger.InfoFormat("Saving donor: {0}", entity);
+        Logger.InfoFormat("Validating donor: {0}", entity);
+
+        donorValidator.Validate(entity);
+        Logger.InfoFormat("Valid donor: {0}", entity);
+
         string query =
             "INSERT INTO tables.donor (name, email, phonenumber) values (@name, @email, @phoneNumber) returning *";
         IDbConnection connection = _dbUtils.GetConnection();
@@ -70,7 +78,7 @@ public class DonorDbRepository : IDonorRepository
         throw new NotImplementedException();
     }
 
-    public Donor findOneById(long id)
+    public Donor? findOneById(long id)
     {
         Logger.InfoFormat("Finding donor by id {0}", id);
         IDbConnection connection = _dbUtils.GetConnection();

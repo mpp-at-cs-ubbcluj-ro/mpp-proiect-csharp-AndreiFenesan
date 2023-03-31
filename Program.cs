@@ -6,6 +6,10 @@ using log4net.Config;
 using Teledon.models;
 using Teledon.repositories.db_implementations;
 using Teledon.repositories.interfaces;
+using System.Security.Cryptography;
+using System.Text;
+using Teledon.servicies;
+using Teledon.validators;
 
 namespace Teledon
 {
@@ -21,28 +25,13 @@ namespace Teledon
             dbProperties.Add("connectionString", GetConnectionStringByName("postgresDb"));
             DbUtils dbUtils = new DbUtils(dbProperties);
             ICharityRepository charityRepository = new CharityDbRepository(dbUtils);
-            List<CharityCase> charityCases = charityRepository.FindAll();
-            foreach (var charityCase in charityCases)
-            {
-                Console.WriteLine(charityCase);
-            }
 
-            IDonorRepository donorRepository = new DonorDbRepository(dbUtils);
-            // Console.WriteLine(donorRepository.Save(new Donor("Marius Ielcean","MariusIel@yahoo.com","0741778823")));
-            // IEnumerator<Donor> donors = donorRepository.FindDonorByNameLike("%nicu%");
-            // while (donors.MoveNext())
-            // {
-            //     Console.WriteLine(donors.Current);
-            // }
-            // Console.WriteLine(donorRepository.FindDonorByPhoneNumber("0741733889"));
-            // Console.WriteLine(donorRepository.findOneById(20));
-            IDonationRepository donationRepository = new DonationDbRepository(dbUtils);
-            // Donation don = donationRepository.Save(new Donation(200, 1, 1));
-            // Console.WriteLine(don);
-            // Console.WriteLine(donationRepository.GetTotalAmountOfMoneyRaised(1));
+            IDonorRepository donorRepository = new DonorDbRepository(dbUtils, new DonorValidator());
+            IDonationRepository donationRepository = new DonationDbRepository(dbUtils, new DonationValidator());
+
             IVolunteerRepository volunteerRepository = new VolunteerDbRepository(dbUtils);
-            Console.WriteLine(volunteerRepository.FindVolunteerByUsername("serPop"));
-
+            IService teledonSerice = new TeledonService(charityRepository, donationRepository, donorRepository,
+                volunteerRepository);
         }
 
         static string GetConnectionStringByName(string name)

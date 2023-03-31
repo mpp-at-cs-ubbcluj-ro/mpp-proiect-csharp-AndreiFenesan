@@ -6,6 +6,7 @@ public class DonorValidator : IValidator<Donor>
 {
     public void Validate(Donor donor)
     {
+        CheckForNullAndEmptyStrings(donor);
     }
 
     private void CheckForNullAndEmptyStrings(Donor donor)

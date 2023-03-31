@@ -2,7 +2,7 @@ namespace Teledon.models;
 
 public class Entity<TId>
 {
-    private TId Id { get; set; }
+    public TId Id { get; set; }
 
     public Entity(TId id)
     {
