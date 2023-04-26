@@ -1,0 +1,79 @@
+INFO 10 Persistance.database_repository.VolunteerDbRepository - Find volunteer by useername: serPop
+INFO 10 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.VolunteerDbRepository - Found volunteer 1; Sergiu Pop; serPop; 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 937
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 334
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %c%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop Niculae%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop Nicula%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop Nicul%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop Nicu%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop Nic%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop Ni%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop N%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop %
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Pop%
+INFO 10 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %Gigel Popescu%
+INFO 13 Persistance.database_repository.VolunteerDbRepository - Find volunteer by useername: sile
+INFO 13 Persistance.database_repository.VolunteerDbRepository - Found volunteer 2; Vasile Rusu; sile; 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+INFO 13 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 13 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 13 Persistance.database_repository.DonationDbRepository - Computed sum 937
+INFO 13 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 13 Persistance.database_repository.DonationDbRepository - Computed sum 334
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding charity case with id: 1
+INFO 10 Persistance.database_repository.DonorDbRepository - Finding donor by phoneNumber 0884643190
+INFO 10 Persistance.database_repository.DonorDbRepository - Found donor by phoneNumber 22; Gigel Popescu; Gigel.Popescu@yahoo.com; 0884643190
+INFO 10 Persistance.database_repository.DonationDbRepository - Saving donation -2; 4; 22; 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Validating donation -2; 4; 22; 1
+INFO 10 Persistance.database_repository.DonationDbRepository - valid donation -2; 4; 22; 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Saved 94; 4; 22; 1 successfully
+INFO 13 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 13 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 13 Persistance.database_repository.DonationDbRepository - Computed sum 941
+INFO 13 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 13 Persistance.database_repository.DonationDbRepository - Computed sum 334
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 941
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 334
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %i%
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %io%
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %ion%
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %ione%
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %ionel%
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %ionel %
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %ionel p%
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %ionel po%
+INFO 13 Persistance.database_repository.DonorDbRepository - searching for donor with name pattern: %ionel pop%
+INFO 13 Persistance.database_repository.CharityDbRepository - Finding charity case with id: 2
+INFO 13 Persistance.database_repository.DonorDbRepository - Finding donor by phoneNumber 547823497
+INFO 13 Persistance.database_repository.DonorDbRepository - No donor found by phoneNumber 547823497
+INFO 13 Persistance.database_repository.DonorDbRepository - Saving donor: -2; ionel pop; ionel; 547823497
+INFO 13 Persistance.database_repository.DonorDbRepository - Validating donor: -2; ionel pop; ionel; 547823497
+INFO 13 Persistance.database_repository.CharityDbRepository - Finding charity case with id: 2
+INFO 13 Persistance.database_repository.DonorDbRepository - Finding donor by phoneNumber 547823497
+INFO 13 Persistance.database_repository.DonorDbRepository - No donor found by phoneNumber 547823497
+INFO 13 Persistance.database_repository.DonorDbRepository - Saving donor: -2; ionel pop; ionel@gmail.com; 547823497
+INFO 13 Persistance.database_repository.DonorDbRepository - Validating donor: -2; ionel pop; ionel@gmail.com; 547823497
+INFO 13 Persistance.database_repository.DonorDbRepository - Valid donor: -2; ionel pop; ionel@gmail.com; 547823497
+INFO 13 Persistance.database_repository.DonorDbRepository - Donor: -2; ionel pop; ionel@gmail.com; 547823497 saved successfully
+INFO 13 Persistance.database_repository.DonationDbRepository - Saving donation -2; 9; 37; 2
+INFO 13 Persistance.database_repository.DonationDbRepository - Validating donation -2; 9; 37; 2
+INFO 13 Persistance.database_repository.DonationDbRepository - valid donation -2; 9; 37; 2
+INFO 13 Persistance.database_repository.DonationDbRepository - Saved 95; 9; 37; 2 successfully
+INFO 13 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 13 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 13 Persistance.database_repository.DonationDbRepository - Computed sum 941
+INFO 13 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 13 Persistance.database_repository.DonationDbRepository - Computed sum 343
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 941
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 343

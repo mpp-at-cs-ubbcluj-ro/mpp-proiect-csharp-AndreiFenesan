@@ -1,0 +1,17 @@
+D:\projectsRiderFinal\clientserver\Networking\bin\Debug\net7.0\Networking.deps.json
+D:\projectsRiderFinal\clientserver\Networking\bin\Debug\net7.0\Networking.dll
+D:\projectsRiderFinal\clientserver\Networking\bin\Debug\net7.0\Networking.pdb
+D:\projectsRiderFinal\clientserver\Networking\bin\Debug\net7.0\model.dll
+D:\projectsRiderFinal\clientserver\Networking\bin\Debug\net7.0\Servicies.dll
+D:\projectsRiderFinal\clientserver\Networking\bin\Debug\net7.0\Servicies.pdb
+D:\projectsRiderFinal\clientserver\Networking\bin\Debug\net7.0\model.pdb
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\Networking.csproj.AssemblyReference.cache
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\Networking.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\Networking.AssemblyInfoInputs.cache
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\Networking.AssemblyInfo.cs
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\Networking.csproj.CoreCompileInputs.cache
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\Networking.csproj.CopyComplete
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\Networking.dll
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\refint\Networking.dll
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\Networking.pdb
+D:\projectsRiderFinal\clientserver\Networking\obj\Debug\net7.0\ref\Networking.dll

@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/model.dll": {}
+        }
+      },
+      "Networking/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Servicies": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Networking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Networking.dll": {}
+        }
+      },
+      "Servicies/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Servicies.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Servicies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "model/1.0.0": {
+      "type": "project",
+      "path": "../model/model.csproj",
+      "msbuildProject": "../model/model.csproj"
+    },
+    "Networking/1.0.0": {
+      "type": "project",
+      "path": "../Networking/Networking.csproj",
+      "msbuildProject": "../Networking/Networking.csproj"
+    },
+    "Servicies/1.0.0": {
+      "type": "project",
+      "path": "../Servicies/Servicies.csproj",
+      "msbuildProject": "../Servicies/Servicies.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "Networking >= 1.0.0",
+      "Servicies >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Andrei\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\projectsRiderFinal\\clientserver\\client\\client.csproj",
+      "projectName": "client",
+      "projectPath": "D:\\projectsRiderFinal\\clientserver\\client\\client.csproj",
+      "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
+      "outputPath": "D:\\projectsRiderFinal\\clientserver\\client\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "D:\\projectsRiderFinal\\clientserver\\Networking\\Networking.csproj": {
+              "projectPath": "D:\\projectsRiderFinal\\clientserver\\Networking\\Networking.csproj"
+            },
+            "D:\\projectsRiderFinal\\clientserver\\Servicies\\Servicies.csproj": {
+              "projectPath": "D:\\projectsRiderFinal\\clientserver\\Servicies\\Servicies.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\Andrei\\.dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\projectsRiderFinal\clientserver\Persistance\bin\Debug\net7.0\Persistance.deps.json
+D:\projectsRiderFinal\clientserver\Persistance\bin\Debug\net7.0\Persistance.dll
+D:\projectsRiderFinal\clientserver\Persistance\bin\Debug\net7.0\Persistance.pdb
+D:\projectsRiderFinal\clientserver\Persistance\bin\Debug\net7.0\model.dll
+D:\projectsRiderFinal\clientserver\Persistance\bin\Debug\net7.0\Servicies.dll
+D:\projectsRiderFinal\clientserver\Persistance\bin\Debug\net7.0\model.pdb
+D:\projectsRiderFinal\clientserver\Persistance\bin\Debug\net7.0\Servicies.pdb
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\Persistance.csproj.AssemblyReference.cache
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\Persistance.AssemblyInfoInputs.cache
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\Persistance.AssemblyInfo.cs
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\Persistance.csproj.CoreCompileInputs.cache
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\Persistance.csproj.CopyComplete
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\Persistance.dll
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\refint\Persistance.dll
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\Persistance.pdb
+D:\projectsRiderFinal\clientserver\Persistance\obj\Debug\net7.0\ref\Persistance.dll

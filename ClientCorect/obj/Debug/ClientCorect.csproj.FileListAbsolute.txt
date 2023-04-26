@@ -1,0 +1,2 @@
+D:\projectsRiderFinal\clientserver\ClientCorect\obj\Debug\ClientCorect.csproj.AssemblyReference.cache
+D:\projectsRiderFinal\clientserver\ClientCorect\obj\Debug\ClientCorect.csproj.SuggestedBindingRedirects.cache

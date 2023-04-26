@@ -1,0 +1,15 @@
+D:\projectsRiderFinal\clientserver\Servicies\bin\Debug\net7.0\Servicies.deps.json
+D:\projectsRiderFinal\clientserver\Servicies\bin\Debug\net7.0\Servicies.dll
+D:\projectsRiderFinal\clientserver\Servicies\bin\Debug\net7.0\Servicies.pdb
+D:\projectsRiderFinal\clientserver\Servicies\bin\Debug\net7.0\model.dll
+D:\projectsRiderFinal\clientserver\Servicies\bin\Debug\net7.0\model.pdb
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\Servicies.csproj.AssemblyReference.cache
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\Servicies.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\Servicies.AssemblyInfoInputs.cache
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\Servicies.AssemblyInfo.cs
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\Servicies.csproj.CoreCompileInputs.cache
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\Servicies.csproj.CopyComplete
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\Servicies.dll
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\refint\Servicies.dll
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\Servicies.pdb
+D:\projectsRiderFinal\clientserver\Servicies\obj\Debug\net7.0\ref\Servicies.dll

@@ -1,0 +1,12 @@
+D:\projectsRiderFinal\clientserver\model\bin\Debug\net7.0\model.deps.json
+D:\projectsRiderFinal\clientserver\model\bin\Debug\net7.0\model.dll
+D:\projectsRiderFinal\clientserver\model\bin\Debug\net7.0\model.pdb
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\model.csproj.AssemblyReference.cache
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\model.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\model.AssemblyInfoInputs.cache
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\model.AssemblyInfo.cs
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\model.csproj.CoreCompileInputs.cache
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\model.dll
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\refint\model.dll
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\model.pdb
+D:\projectsRiderFinal\clientserver\model\obj\Debug\net7.0\ref\model.dll

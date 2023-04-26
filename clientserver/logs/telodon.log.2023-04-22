@@ -1,0 +1,98 @@
+INFO 1 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 1 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 1 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 1 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 1 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 1 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 1 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 1 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 1 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 1 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 1 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 1 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 1 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 1 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 10 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 10 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 11 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 11 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 11 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 11 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 11 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 11 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 11 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 10 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 10 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 10 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 10 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 10 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 10 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 4 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 4 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 4 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 4 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 4 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 4 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 4 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 11 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 11 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 11 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 11 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 11 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 11 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 11 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 3 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 3 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 3 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 3 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 3 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 14 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 14 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 14 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 14 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 14 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 11 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 11 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 11 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 11 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 11 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 11 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 11 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 13 Persistance.database_repository.CharityDbRepository - Finding all Charity cases
+INFO 13 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 1
+INFO 13 Persistance.database_repository.DonationDbRepository - Computed sum 766
+INFO 13 Persistance.database_repository.DonationDbRepository - Computing the total amount of money raised for charity with id 2
+INFO 13 Persistance.database_repository.DonationDbRepository - Computed sum 316
+INFO 10 Persistance.database_repository.VolunteerDbRepository - Find volunteer by useername: sads
+INFO 10 Persistance.database_repository.DbUtils - Connecting to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.DbUtils - Connected successfully to Host=192.168.1.162:8989;Username=postgres;Password=admin;Database=Teledon
+INFO 10 Persistance.database_repository.VolunteerDbRepository - No volunteer found with username sads
+INFO 12 Persistance.database_repository.VolunteerDbRepository - Find volunteer by useername: serPop
+INFO 12 Persistance.database_repository.VolunteerDbRepository - Found volunteer 1; Sergiu Pop; serPop; 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
