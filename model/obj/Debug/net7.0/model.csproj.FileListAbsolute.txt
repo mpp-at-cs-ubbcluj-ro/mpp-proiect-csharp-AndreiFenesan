@@ -1,0 +1,12 @@
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/bin/Debug/net7.0/model.deps.json
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/bin/Debug/net7.0/model.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/bin/Debug/net7.0/model.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/model.csproj.AssemblyReference.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/model.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/model.AssemblyInfoInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/model.AssemblyInfo.cs
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/model.csproj.CoreCompileInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/model.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/refint/model.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/model.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/Debug/net7.0/ref/model.dll

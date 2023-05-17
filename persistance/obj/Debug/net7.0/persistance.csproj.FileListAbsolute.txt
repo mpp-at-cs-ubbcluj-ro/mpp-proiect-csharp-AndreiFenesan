@@ -1,0 +1,15 @@
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/bin/Debug/net7.0/persistance.deps.json
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/bin/Debug/net7.0/persistance.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/bin/Debug/net7.0/persistance.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/bin/Debug/net7.0/model.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/bin/Debug/net7.0/model.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/persistance.csproj.AssemblyReference.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/persistance.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/persistance.AssemblyInfoInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/persistance.AssemblyInfo.cs
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/persistance.csproj.CoreCompileInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/persistance.csproj.CopyComplete
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/persistance.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/refint/persistance.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/persistance.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/Debug/net7.0/ref/persistance.dll

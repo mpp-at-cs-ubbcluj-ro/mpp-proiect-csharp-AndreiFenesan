@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "N28OJ5WbJvV3El2IMew3oEOM3Ux7pDsq4yncgtKlbmaSjWDbGYM9Yelmd8MyXjvjdWnsvHHgUhm/qeTORQb71w==",
+  "success": true,
+  "projectFilePath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/persistance.csproj",
+  "expectedPackageFiles": [
+    "/home/andrei/.nuget/packages/log4net/2.0.15/log4net.2.0.15.nupkg.sha512",
+    "/home/andrei/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/andrei/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/home/andrei/.nuget/packages/npgsql/8.0.0-preview.3/npgsql.8.0.0-preview.3.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.configuration.configurationmanager/4.5.0/system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/bin/Debug/net7.0/ServerTeledon
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/bin/Debug/net7.0/ServerTeledon.deps.json
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/bin/Debug/net7.0/ServerTeledon.runtimeconfig.json
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/bin/Debug/net7.0/ServerTeledon.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/bin/Debug/net7.0/ServerTeledon.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ServerTeledon.csproj.AssemblyReference.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ServerTeledon.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ServerTeledon.AssemblyInfoInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ServerTeledon.AssemblyInfo.cs
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ServerTeledon.csproj.CoreCompileInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ServerTeledon.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/refint/ServerTeledon.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ServerTeledon.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ServerTeledon.genruntimeconfig.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/ServerTeledon/obj/Debug/net7.0/ref/ServerTeledon.dll

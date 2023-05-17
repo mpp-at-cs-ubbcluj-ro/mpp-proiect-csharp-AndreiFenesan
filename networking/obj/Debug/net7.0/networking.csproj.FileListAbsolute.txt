@@ -1,0 +1,17 @@
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/bin/Debug/net7.0/networking.deps.json
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/bin/Debug/net7.0/networking.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/bin/Debug/net7.0/networking.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/bin/Debug/net7.0/model.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/bin/Debug/net7.0/servicies.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/bin/Debug/net7.0/model.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/bin/Debug/net7.0/servicies.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/networking.csproj.AssemblyReference.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/networking.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/networking.AssemblyInfoInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/networking.AssemblyInfo.cs
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/networking.csproj.CoreCompileInputs.cache
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/networking.csproj.CopyComplete
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/networking.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/refint/networking.dll
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/networking.pdb
+/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/Debug/net7.0/ref/networking.dll

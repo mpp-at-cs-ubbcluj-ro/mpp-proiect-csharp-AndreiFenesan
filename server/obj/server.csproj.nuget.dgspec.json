@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/server/server.csproj": {}
+  },
+  "projects": {
+    "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj",
+        "projectName": "model",
+        "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj",
+        "packagesPath": "/home/andrei/.nuget/packages/",
+        "outputPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andrei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/networking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/networking.csproj",
+        "projectName": "networking",
+        "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/networking.csproj",
+        "packagesPath": "/home/andrei/.nuget/packages/",
+        "outputPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andrei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj": {
+                "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj"
+              },
+              "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/servicies/servicies.csproj": {
+                "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/servicies/servicies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/persistance.csproj",
+        "projectName": "persistance",
+        "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/persistance.csproj",
+        "packagesPath": "/home/andrei/.nuget/packages/",
+        "outputPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andrei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj": {
+                "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/server/server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/server/server.csproj",
+        "projectName": "server",
+        "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/server/server.csproj",
+        "packagesPath": "/home/andrei/.nuget/packages/",
+        "outputPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andrei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/networking.csproj": {
+                "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/networking/networking.csproj"
+              },
+              "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/persistance.csproj": {
+                "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/persistance/persistance.csproj"
+              },
+              "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/servicies/servicies.csproj": {
+                "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/servicies/servicies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/servicies/servicies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/servicies/servicies.csproj",
+        "projectName": "servicies",
+        "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/servicies/servicies.csproj",
+        "packagesPath": "/home/andrei/.nuget/packages/",
+        "outputPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/servicies/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andrei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj": {
+                "projectPath": "/home/andrei/Desktop/facultate sem4/MPP/serverSharp/ServerTeledon/model/model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
